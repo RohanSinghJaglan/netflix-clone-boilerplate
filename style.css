@@ -1,0 +1,28 @@
+*{  
+    border:0 ;
+    padding: 0;
+    background-color: black;
+
+}
+body{
+    background-color:black;
+}
+p{
+    color:white;
+    
+    background-color: black;
+}
+.sya{
+    align-items: flex-start;
+    margin: 2px black; 
+    background: black;
+
+    
+}
+.drd{
+    color: white;
+}
+.last{
+    align-items: center;
+    flex-direction: column;
+}
